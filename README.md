@@ -1,4 +1,3 @@
-# nofa_streak
 # Streaky
 
 A Flutter app to track and visualize your daily streaks using a calendar interface.
