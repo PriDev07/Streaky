@@ -17,8 +17,8 @@ A Flutter app to track and visualize your daily streaks using a calendar interfa
 ### Installation
 1. Clone the repository:
 	```sh
-	git clone <your-repo-url>
-	cd nofa_streak
+	git clone https://github.com/PriDev07/Streaky
+	cd Streaky
 	```
 2. Install dependencies:
 	```sh
